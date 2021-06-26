@@ -1,0 +1,18 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1): Phileas Fogg finally returned to London.
+Baloon#B2(2): As for Phileas Fogg, it seemed just as if Russia were a part of his program.
+JetPlane#J1(3): it's sunny.
+Helicopter#H1(4): il pleut.
+Helicopter#H2(5): il pleut.
+Helicopter#H3(6): Il neige.
+Baloon#B3(7): Passepartout, where is my umbrella?.
+JetPlane#J2(8): it's rainy.
+Helicopter#H4(9): Il neige.
